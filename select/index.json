@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Animal I Have Become (Official Video)",
+  "base_artist": "Three Days Grace",
+  "createdAt": "2026-03-06T08:42:52.027583Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/01_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/02_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/03_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "animal i have become",
+      "artist": "three days grace",
+      "has_synced": true,
+      "path": "select/04_animal_i_have_become_three_days_grace.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/05_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/06_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/07_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/08_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/09_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Animal ( I have become )",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/10_Animal_(_I_have_become_)_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Jonathan Young",
+      "has_synced": true,
+      "path": "select/11_Animal_I_Have_Become_Jonathan_Young.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/12_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/13_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Cole Rolland",
+      "has_synced": true,
+      "path": "select/14_Animal_I_Have_Become_Cole_Rolland.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/15_Animal_I_Have_Become_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Animal I Have Become",
+      "artist": "Three Days Grace",
+      "has_synced": false,
+      "path": "select/pl_01_Animal_I_Have_Become_Three_Days_Grace.txt"
+    }
+  ]
+}
