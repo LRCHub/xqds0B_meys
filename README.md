@@ -1,0 +1,50 @@
+# Three Days Grace – Animal I Have Become (Official Video)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:23.87] I can't escape this hell
+[00:31.69] So many times I've tried
+[00:39.68] But I'm still caged inside
+[00:47.22] Somebody get me through this nightmare
+[01:06.22] 
+[00:51.42] I can't control myself
+[00:55.28] So what if you can see the darkest side of me
+[00:59.08] No one will ever change this animal I have become
+[01:03.40] Help me believe it's not the real me
+[01:21.40] 
+[01:06.91] Somebody help me tame this animal
+[01:11.66] (This animal, this animal)
+[01:15.04] I can't escape myself
+[01:19.46] (I can't escape myself)
+[01:30.96] 
+[01:22.92] So many times I've lied
+[01:27.25] (So many times I've lied)
+[01:30.75] But there's still rage inside
+[01:38.58] Somebody get me through this nightmare
+[01:57.58] 
+[01:42.47] I can't control myself
+[01:46.26] So what if you can see the darkest side of me
+[02:08.76] 
+[01:50.27] No one will ever change this animal I have become
+[01:54.66] Help me believe it's not the real me
+[02:12.66] 
+[01:58.12] Somebody help me tame this animal I have become
+[02:21.62] 
+[02:02.51] Help me believe it's not the real me
+[02:05.95] Somebody help me tame this animal
+[02:12.04] Somebody help me through this nightmare
+[02:16.08] I can't control myself
+[02:27.08] 
+[02:19.85] Somebody wake me from this nightmare
+[02:24.09] I can't escape this hell
+[02:32.32] (This animal, this animal, this animal
+[02:37.98] This animal, this animal, this animal, this animal)
+[02:47.33] So what if you can see the darkest side of me
+[02:51.28] No one will ever change this animal I have become
+[02:55.65] Help me believe it's not the real me
+[02:59.03] Somebody help me tame this animal I have become
+[03:03.47] Help me believe it's not the real me
+[03:07.07] Somebody help me tame this animal
+[03:16.95] This animal I have become
+```
